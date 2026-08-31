@@ -117,14 +117,6 @@
 
 ---
 
-## 软件下载
-
-绿色免安装版本：https://pan.quark.cn/s/c6f61f1db682
-
-安装版本：https://pan.quark.cn/s/a6e2f81a973b 
-
----
-
 <div align="center">
 
 **QQ群** · 问题反馈
