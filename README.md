@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- 介绍视频 -->
-<video width="100%" controls autoplay muted loop>
-  <source src="docs/screenshots/mankeai.mp4" type="video/mp4" />
-</video>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117165231575227&bvid=BV1HPhc6EEA5&cid=41310097156&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 # 漫刻 AI · 智能漫画生成工坊
 
