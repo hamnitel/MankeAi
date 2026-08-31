@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 介绍视频 -->
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117165231575227&bvid=BV1HPhc6EEA5&cid=41310097156&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![Mankeai简介](about.png)
 
 # 漫刻 AI · 智能漫画生成工坊
 
