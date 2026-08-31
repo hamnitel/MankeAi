@@ -1,6 +1,8 @@
 <div align="center">
 
-[![漫刻 AI 介绍视频](about.png)](https://www.bilibili.com/video/BV1HPhc6EEA5)
+<a href="https://www.bilibili.com/video/BV1HPhc6EEA5" target="_blank">
+  <img src="about.png" alt="漫刻 AI 介绍视频" width="100%" />
+</a>
 
 # 漫刻 AI · 智能漫画生成工坊
 
