@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mankeai简介](about.png)
+[![漫刻 AI 介绍视频](about.png)](https://www.bilibili.com/video/BV1HPhc6EEA5)
 
 # 漫刻 AI · 智能漫画生成工坊
 
